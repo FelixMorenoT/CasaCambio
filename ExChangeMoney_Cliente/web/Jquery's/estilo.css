@@ -1,0 +1,22 @@
+#Conversor{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+h1{
+    text-align: center;
+}
+
+#formuRegistro{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+label{
+    text-align: left !important;
+}
+legend,RegistroUser{
+    text-align: center;
+}
+#check,#wrong{
+    width: 60%;
+    margin-left: 20%;
+}

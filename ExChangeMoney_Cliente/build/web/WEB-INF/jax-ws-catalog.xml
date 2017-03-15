@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/ClienteExchange/ClienteExchange?wsdl" uri="wsdl/localhost_8080/ClienteExchange/ClienteExchange.wsdl"/>
+    <system systemId="http://localhost:8080/ClienteExchange/ClienteExchange?xsd=1" uri="wsdl/localhost_8080/ClienteExchange/ClienteExchange.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/AdministradorExChange/AdministradorExChange?wsdl" uri="wsdl/localhost_8080/AdministradorExChange/AdministradorExChange.wsdl"/>
+    <system systemId="http://localhost:8080/AdministradorExChange/AdministradorExChange?xsd=1" uri="wsdl/localhost_8080/AdministradorExChange/AdministradorExChange.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/UsuarioWebService/UsuarioWebService?wsdl" uri="wsdl/localhost_8080/UsuarioWebService/UsuarioWebService.wsdl"/>
+    <system systemId="http://localhost:8080/UsuarioWebService/UsuarioWebService?xsd=1" uri="wsdl/localhost_8080/UsuarioWebService/UsuarioWebService.xsd_1.xsd"/>
+</catalog>
